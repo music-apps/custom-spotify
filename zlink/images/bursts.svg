@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1135 921" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="73.2635377%" y1="72.6367393%" x2="48.7203963%" y2="27.7430646%" id="linearGradient-1">
+      <stop stop-color="#F573A0" offset="0%"></stop>
+      <stop stop-color="#AF2896" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Artboard" fill-rule="nonzero" fill="url(#linearGradient-1)">
+      <polygon id="Shape" transform="translate(605.662585, 312.181124) rotate(25.000000) translate(-605.662585, -312.181124) " points="174.28998 817.938135 646.793903 3.8544374 465.246594 532.550069 953.760092 -193.575888 867.700719 438.011317 1037.03519 259.31156 959.391918 817.938135"></polygon>
+    </g>
+  </g>
+</svg>
